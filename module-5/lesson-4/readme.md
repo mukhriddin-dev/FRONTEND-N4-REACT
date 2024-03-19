@@ -1,9 +1,14 @@
 ##### UTILS , MAP , selectorName
 
-- new Map()
-- set()
-- get()
-- add()
+- new Map() // new constructor
+- set() // set new element
+- get() // get  element
+- has() // has element
+- entries() // MapIterator [key=>value]
+- size -> Map collection size
+- delete() // delete element
+
+
 
 
 ![alt text](image.png)
@@ -21,3 +26,36 @@
 
 - fetching function
 - DOM monupulation functions
+
+
+- DOM monupulation 
+
+- Select element
+
+- create element
+
+- click
+
+- keyup
+
+- change
+
+- submit
+
+- hide
+
+- show
+
+- toggle
+
+- clear
+
+- contain
+
+- append
+
+- prepend
+
+- attr.set()
+
+- attr.get()
